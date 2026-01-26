@@ -23,5 +23,5 @@ def test_divide_by_zero():
         divide(5, 0)
 
 
-def test_failed():
-    assert add(5, 4) == 10
+def test_correct():
+    assert add(5, 4) == 9
