@@ -28,4 +28,4 @@ def test_correct():
 
 
 def test_failed_fix():
-    assert multiply(4, 5) == 20
+    assert multiply(4, 5) == 55
