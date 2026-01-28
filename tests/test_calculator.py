@@ -29,3 +29,7 @@ def test_correct():
 
 def test_failed_fix():
     assert multiply(4, 6) == 24
+
+
+def test_failed_for_example():
+    assert add(10, 15) == 25
