@@ -32,4 +32,4 @@ def test_failed_fix():
 
 
 def test_failed_for_example():
-    assert add(10, 15) == 150
+    assert add(10, 15) == 25
