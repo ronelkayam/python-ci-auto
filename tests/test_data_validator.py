@@ -1,5 +1,6 @@
 import pytest
-from data_validator import is_positive, is_in_range, is_integer
+from src.data_validator import is_positive, is_in_range, is_integer
+
 
 
 def test_is_positive_true():
